@@ -1,0 +1,5 @@
+/target
+/pkg
+/out
+/node_modules
+.next
